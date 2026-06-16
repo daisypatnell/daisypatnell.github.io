@@ -1,2 +1,2 @@
 # daisypatnell.github.io
-![Website layout](/least-github-pages/assets/websitedesign.jpg)
+![Website layout](/daisypatnell.github.io/assets/websitedesign.jpg)
